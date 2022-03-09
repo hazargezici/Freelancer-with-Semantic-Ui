@@ -1,0 +1,85 @@
+h1,h2,h3{
+    color: #fff;
+}
+i{
+    color: #fff;
+}
+.sc-section{
+ padding-top: 5rem;
+ padding-bottom: 5rem;
+
+}
+.sc-menu{
+    border: none !important;
+    background: #2C3E50 !important;
+}
+.sc-menu h1,
+.sc-menu a{
+    color: #fff !important;
+}
+.sc-nav{
+    background: #2C3E50 !important;
+}
+
+.sc-main{
+   
+    background-color: #18BC9C;
+}
+.sc-main h1{
+    font-size: 6rem;
+}
+.sc-h2{
+    font-size: 3rem !important;
+}
+.column{
+    margin-bottom: 1rem !important;
+}
+
+#about{
+    background-color: #18BC9C;
+}
+#about p{
+    color: #fff ;
+    font-weight:400;
+    font-size: 1.2rem;
+    
+}
+.sc-button{
+    background-color: #18BC9C !important;
+    border: 1px solid #fff !important;
+    color: #fff !important;
+    padding: 1.5rem 0.7rem !important;
+}
+.sc-button:hover, .sc-button:hover i{
+    background-color: #fff !important;
+    border-color: #18BC9C !important ;
+    color:  #2C3E50 !important;
+}
+
+.form input,textarea{
+    font-size: 2rem !important;
+    border-top:none !important ;
+    border-left:none !important;
+    border-right: none !important;
+    
+}
+#footer{
+    background-color: #2C3E50;
+    padding-top:3rem ;
+}
+#footer button{
+    background-color: #2C3E50;
+    border:1px solid #fff !important;
+    padding: 1.3rem;
+}
+#footer p{
+    font-size: 1.2rem !important;
+    color: #fff;
+}
+.copyright{
+    color: #fff;
+    background-color: #1A252F;
+    padding: 2rem;
+    position: relative;
+    top: -1rem;
+}
